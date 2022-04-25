@@ -1,5 +1,5 @@
-{ "homepage": "http://oashtech.github.io/oash-first-cv\",
-  "name": "cv-project",
+{ "homepage": "http://oashtech.github.io/oash-first-cv",
+  "name": "oash-first-cv",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
